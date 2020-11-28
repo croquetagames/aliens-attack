@@ -1,0 +1,25 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 7ce0fdb4e39b5744abf0c061bd2a3e30, type: 3}
+  m_Name: VerticalLine
+  m_EditorClassIdentifier: 
+  id: verticalLine
+  points: []
+  gesture:
+    lines:
+    - points:
+      - {x: 0.50248754, y: 0.9900498}
+      - {x: 0.50248754, y: 0}
+      closedLine: 0
+  useLinesOrder: 0
+  useLinesDirections: 0
+  sprite: {fileID: 2008071151658815589, guid: 7436b2f5dce5b4ddea43e3c5f70c027d, type: 3}
