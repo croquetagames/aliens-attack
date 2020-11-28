@@ -9,4 +9,4 @@ The game needs the external library: [Gesture Recgnizer - Raphael Marques](https
 
 ## Resources
 
-All the designs are property of Adrián Pérez and Joan López de la Franca.
+All the designs are property of [Adrián Pérez](https://github.com/aperezg) and [Joan López de la Franca](https://github.com/joanlopez).
